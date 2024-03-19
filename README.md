@@ -4,3 +4,4 @@
 [LAB-05][https://github.com/sriram-bandi/AIML_BATCH_11/blob/main/Lab05_AIML.ipynb]
 [LAB-04][https://github.com/sriram-bandi/AIML_BATCH_11/blob/main/Lab04_AIML.ipynb]
 [LAB-06][https://github.com/sriram-bandi/AIML_BATCH_11/blob/main/Lab06_AIML.ipynb]
+[LAB-07][https://github.com/sriram-bandi/AIML_BATCH_11/blob/main/Lab06_AIML.ipynb]
